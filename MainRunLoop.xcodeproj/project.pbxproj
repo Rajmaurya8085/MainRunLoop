@@ -14,6 +14,7 @@
 		9F96B983233329BB00F1FECE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F96B981233329BB00F1FECE /* LaunchScreen.storyboard */; };
 		9F96B98E233329BC00F1FECE /* MainRunLoopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96B98D233329BC00F1FECE /* MainRunLoopTests.swift */; };
 		9F96B999233329BC00F1FECE /* MainRunLoopUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96B998233329BC00F1FECE /* MainRunLoopUITests.swift */; };
+		9F96B9A7233329E700F1FECE /* MYUIApplication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F96B9A6233329E700F1FECE /* MYUIApplication.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9F96B994233329BC00F1FECE /* MainRunLoopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MainRunLoopUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F96B998233329BC00F1FECE /* MainRunLoopUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainRunLoopUITests.swift; sourceTree = "<group>"; };
 		9F96B99A233329BC00F1FECE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F96B9A6233329E700F1FECE /* MYUIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MYUIApplication.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9F96B97F233329BB00F1FECE /* Assets.xcassets */,
 				9F96B981233329BB00F1FECE /* LaunchScreen.storyboard */,
 				9F96B984233329BB00F1FECE /* Info.plist */,
+				9F96B9A6233329E700F1FECE /* MYUIApplication.swift */,
 			);
 			path = MainRunLoop;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				9F96B97B233329B600F1FECE /* ViewController.swift in Sources */,
 				9F96B979233329B600F1FECE /* AppDelegate.swift in Sources */,
+				9F96B9A7233329E700F1FECE /* MYUIApplication.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
